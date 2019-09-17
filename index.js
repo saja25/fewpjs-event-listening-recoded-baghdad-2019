@@ -4,6 +4,9 @@
   alert('I was clicked!');
 });
   } */
-  function addingEventListener(event){
+  funconst input = document.getElementById('input');
+input.addEventListener('click', function(event) {
+  alert('I was clicked!');
+});ction addingEventListener(event){
     
   }
