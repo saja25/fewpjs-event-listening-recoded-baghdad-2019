@@ -4,4 +4,6 @@
   alert('I was clicked!');
 });
   } */
-  
+  function addingEventListener(event){
+    
+  }
